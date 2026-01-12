@@ -1,6 +1,6 @@
-# AssortRock KDT4
+# AssortRock 
 
-2025.09.01 ~ 2026.05.06 
+2025.09.01 ~ 2026.05.06 <br>
 어소트락 아카데미에서 배운 CPP 및 DX11 모작 정리한 Repository입니다.
 
 
