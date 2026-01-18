@@ -1,0 +1,168 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\ColorMesh.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Mesh.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Sprite.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\TileMap.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\UI.cso
+  Animation2D.cpp
+  Animation2DSequence.cpp
+  Animation2DData.cpp
+  Animation2DManager.cpp
+  Asset.cpp
+  AssetManager.cpp
+  Font.cpp
+  FontCollection.cpp
+  FontManager.cpp
+  Material.cpp
+  MaterialManager.cpp
+  Mesh.cpp
+  MeshManager.cpp
+  StaticMesh.cpp
+  Sound.cpp
+  SoundManager.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Collision.cpp
+  AudioComponent.cpp
+  CameraComponent.cpp
+  ColliderAABB2D.cpp
+  ColliderBase.cpp
+  ColliderLine2D.cpp
+  ColliderOBB2D.cpp
+  ColliderSphere2D.cpp
+  Component.cpp
+  GravityComponent.cpp
+  MeshComponent.cpp
+  MovementComponent.cpp
+  RotationComponent.cpp
+  SceneComponent.cpp
+  SpriteComponent.cpp
+  StaticMeshComponent.cpp
+  Tile.cpp
+  TileMapComponent.cpp
+  TileMapRenderComponent.cpp
+  WidgetComponent.cpp
+  Device.cpp
+  GameManager.cpp
+  Gameinfo.cpp
+  AshBright.cpp
+  AshFloor.cpp
+  AshPlatform.cpp
+  BackFloor.cpp
+  BackFloorThree.cpp
+  BackFloorTwo.cpp
+  BackObject.cpp
+  BackWall.cpp
+  BulletObject.cpp
+  CameraObject.cpp
+  EditorPlayer.cpp
+  GunnerMonster.cpp
+  MonsterObject.cpp
+  NearingMonster.cpp
+  ObjectSpawnPoint.cpp
+  PlayerCombat.cpp
+  PlayerFallingDown.cpp
+  PlayerHealEffect.cpp
+  PlayerMove.cpp
+  PlayerSkill.cpp
+  PlayerObject.cpp
+  Pontiff.cpp
+  PontiffBody.cpp
+  PontiffHead.cpp
+  Pope.cpp
+  PopeBeam.cpp
+  PopeFireBall.cpp
+  PopeMissile.cpp
+  PopeSpellCasting.cpp
+  PopeSymbol.cpp
+  PopeToxic.cpp
+  SceneObject.cpp
+  SpriteEffect.cpp
+  TileMapObj.cpp
+  ProfileManager.cpp
+  BlendState.cpp
+  DepthStencilState.cpp
+  RasterizerState.cpp
+  RenderManager.cpp
+  RenderState.cpp
+  RenderStateManager.cpp
+  CameraManager.cpp
+  CollisionQuadTree.cpp
+  Input.cpp
+  Scene.cpp
+  SceneAssetManager.cpp
+  SceneCollision.cpp
+  SceneEditor.cpp
+  SceneMain.cpp
+  SceneMain2.cpp
+  SceneManager.cpp
+  SceneStart.cpp
+  SceneUIManager.cpp
+  Animation2DCBuffer.cpp
+  ColliderCBuffer.cpp
+  ColorMeshShader.cpp
+  ComputeShader.cpp
+  ConstantBuffer.cpp
+  ConstantBufferData.cpp
+  FrameMeshShader.cpp
+  GraphicShader.cpp
+  MaterialCBuffer.cpp
+  Shader.cpp
+  ShaderManager.cpp
+  SpriteCBuffer.cpp
+  SpriteShader.cpp
+  StaticMeshShader.cpp
+  TileMapCBuffer.cpp
+  TileMapShader.cpp
+  TileShader.cpp
+  TransformCBuffer.cpp
+  UICBuffer.cpp
+  UIShader.cpp
+  Log.cpp
+  Object.cpp
+  Timer.cpp
+  Button.cpp
+  Image.cpp
+  ProgressBar.cpp
+  TextBlock.cpp
+  CloudWidget.cpp
+  HeadInfo.cpp
+  MainWidget.cpp
+  PlayerDieWidget.cpp
+  PontiffDieWidget.cpp
+  PopeUIInfo.cpp
+  StartWidget.cpp
+  TwisterWidget.cpp
+  UserWidget.cpp
+  WindowWidget.cpp
+  Widget.cpp
+  Vector3D.cpp
+  Vector4D.cpp
+  main.cpp
+D:\Codes\AkCode\BlasStart1201\Blasphemous\include\UI\UserWidget\PlayerDieWidget.cpp(25,25): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Codes\AkCode\BlasStart1201\Blasphemous\include\UI\UserWidget\PlayerDieWidget.cpp(25,15): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Codes\AkCode\BlasStart1201\Blasphemous\include\UI\UserWidget\PlayerDieWidget.cpp(42,16): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Codes\AkCode\BlasStart1201\Blasphemous\include\UI\UserWidget\PlayerDieWidget.cpp(43,16): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LINK : ..\Bin\Blasphemous_Debug.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexImage.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexDDS.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexTGA.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC4BC5.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC6HBC7.obj)' 또는 'D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Blasphemous.vcxproj -> D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Blasphemous_Debug.exe

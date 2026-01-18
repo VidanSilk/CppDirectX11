@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Blasphemous_Debug.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\ColorMesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Mesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\Sprite.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\TileMap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Codes\AkCode\BlasStart1201\Blasphemous\Bin\UI.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
